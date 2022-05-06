@@ -3,10 +3,13 @@
   "displayName": "king Evans Dark Theme",
   "description": "king Evans Dark",
   "publisher": "EvansJethro",
-  "version": "0.2.0",
+  "version": "0.3.0",
+  "vsce": {
+    "baseImagesUrl": "https://github.com/evansjethro/King-evans-vs-code-theme/tree/main/king-evans/img"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/evansjethro/King-evans-vs-code-theme.git"
+    "url": "https://github.com/evansjethro/King-evans-vs-code-theme"
   },
   "keywords": [
     "theme",
