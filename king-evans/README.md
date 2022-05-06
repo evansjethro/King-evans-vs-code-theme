@@ -2,23 +2,19 @@
 
 ## This is the README for the King Evans Dark Theme
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
-- Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-- Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-- Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+This is the syntax coloring for HTML, CSS and javascript.
 
 ## HTML
 
-![HTML Styling](https://github.com/evansjethro/King-evans-vs-code-theme/blob/main/king-evans/img/HTML.png)
+![HTML Styling](https://github.com/evansjethro/King-evans-vs-code-theme/blob/264572081f102f5258214a2a900909b8bcb640f9/king-evans/img/HTML.png)
 
 ## CSS
 
-![CSS Styling](https://github.com/evansjethro/King-evans-vs-code-theme/blob/main/king-evans/img/CSS.png)
+![CSS Styling](https://github.com/evansjethro/King-evans-vs-code-theme/blob/264572081f102f5258214a2a900909b8bcb640f9/king-evans/img/CSS.png)
 
 ## JAVASCRIPT
 
-![JavaSrcipt Styling](https://github.com/evansjethro/King-evans-vs-code-theme/blob/main/king-evans/img/JAVASCRIPT.png)
+![JavaSrcipt Styling](https://github.com/evansjethro/King-evans-vs-code-theme/blob/264572081f102f5258214a2a900909b8bcb640f9/king-evans/img/JAVASCRIPT.png)
 
 ### For more information
 
