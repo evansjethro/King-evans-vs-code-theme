@@ -6,15 +6,15 @@ This is the syntax coloring for HTML, CSS and javascript.
 
 ## HTML
 
-![HTML Styling](/img/HTML.png)
+![HTML Styling](HTML.png)
 
 ## CSS
 
-![CSS Styling](/img/CSS.png)
+![CSS Styling](CSS.png)
 
 ## JAVASCRIPT
 
-![JavaScript Styling](/img/JAVASCRIPT.png)
+![JavaScript Styling](JAVASCRIPT.png)
 
 ### For more information
 
