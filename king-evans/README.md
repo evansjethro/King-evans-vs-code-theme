@@ -2,7 +2,7 @@
 
 ### This Theme is better suitable with the Microsoft Cascadia Code font.
 
-***Inset the following in your settings to enable lagiture Support:***
+**_Inset the following in your settings to enable lagiture Support:_**
 
 > "editor.fontLigatures": true,
 > "[javascript]": { "editor.fontLigatures": "'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06',
@@ -12,15 +12,15 @@
 
 ## HTML
 
-<img src="https://github.com/evansjethro/King-evans-vs-code-theme/blob/9667f40e149d2094e819a1db518857c8aa6a8680/king-evans/HTML.png?raw=true">
+<img src="https://github.com/evansjethro/King-evans-vs-code-theme/blob/a05109b33b2d86f58ac4ac7696440e69a7604f69/king-evans/HTML.png?raw=true">
 
 ## CSS
 
-<img src="https://github.com/evansjethro/King-evans-vs-code-theme/blob/264572081f102f5258214a2a900909b8bcb640f9/king-evans/img/CSS.png?raw=true">
+<img src="https://github.com/evansjethro/King-evans-vs-code-theme/blob/a05109b33b2d86f58ac4ac7696440e69a7604f69/king-evans/CSS.png?raw=true">
 
 ## JAVASCRIPT
 
-<img src="https://github.com/evansjethro/King-evans-vs-code-theme/blob/9667f40e149d2094e819a1db518857c8aa6a8680/king-evans/JAVASCRIPT.png?raw=true">
+<img src="https://github.com/evansjethro/King-evans-vs-code-theme/blob/a05109b33b2d86f58ac4ac7696440e69a7604f69/king-evans/JAVASCRIPT.png?raw=true">
 
 **Download the font in the link bellow;**
 
