@@ -1,8 +1,12 @@
 # README
 
-## This is the README for the King Evans Dark Theme
+### This Theme is better suitable with the Microsoft Cascadia Code font.
 
-This is the syntax coloring for HTML, CSS and javascript.
+_Inset the following in your settings to enable lagiture Support:_
+
+`javascript "editor.fontLigatures": true, "[javascript]": { "editor.fontLigatures": "'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06', 'zero', 'onum'", "editor.fontFamily": "Cascadia Code, 'Courier New', monospace" },`
+
+Following is the syntax coloring for HTML, CSS and javascript.
 
 ## HTML
 
@@ -16,9 +20,8 @@ This is the syntax coloring for HTML, CSS and javascript.
 
 <img src="https://github.com/evansjethro/King-evans-vs-code-theme/blob/9667f40e149d2094e819a1db518857c8aa6a8680/king-evans/JAVASCRIPT.png?raw=true">
 
-### For more information
+**Download the font in the link bellow;**
 
-- [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-- [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+- [Download Cascadia Code font](https://github.com/microsoft/cascadia-code/releases)
 
 **Enjoy!**
