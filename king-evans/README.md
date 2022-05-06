@@ -2,12 +2,12 @@
 
 ### This Theme is better suitable with the Microsoft Cascadia Code font.
 
-**Inset the following in your settings to enable lagiture Support:**
-``
+**###Inset the following in your settings to enable lagiture Support:###**
 
-"editor.fontLigatures": true,
-"[javascript]": { "editor.fontLigatures": "'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06', 'zero', 'onum'", "editor.fontFamily": "Cascadia Code, 'Courier New', monospace" },
-``
+> "editor.fontLigatures": true,
+> "[javascript]": { "editor.fontLigatures": "'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06',
+> 'zero', 'onum'", "editor.fontFamily": "Cascadia Code, 'Courier New', monospace" },
+
 **Following is the syntax coloring for HTML, CSS and javascript.**
 
 ## HTML
