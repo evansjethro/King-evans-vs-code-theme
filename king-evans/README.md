@@ -10,15 +10,15 @@ You can author your README using Visual Studio Code. Here are some useful editor
 
 ## HTML
 
-![alt text](/king-evans/img/HTML.png)
+![HTML Styling](https://github.com/evansjethro/King-evans-vs-code-theme/blob/main/king-evans/img/HTML.png)
 
 ## CSS
 
-![alt text](/king-evans/img/CSS.png)
+![CSS Styling](https://github.com/evansjethro/King-evans-vs-code-theme/blob/main/king-evans/img/CSS.png)
 
 ## JAVASCRIPT
 
-![alt text](/king-evans/img/JAVASCRIPT.png)
+![JavaSrcipt Styling](https://github.com/evansjethro/King-evans-vs-code-theme/blob/main/king-evans/img/JAVASCRIPT.png)
 
 ### For more information
 
