@@ -5,9 +5,9 @@
   "publisher": "EvansJethro",
   "icon": "/img/evanslog.png",
   "version": "0.3.0",
-  "vsce": {
-    "baseImagesUrl": "https://github.com/evansjethro/King-evans-vs-code-theme/tree/main/king-evans/img"
-  },
+  // "vsce": {
+  //   "baseImagesUrl": "https://github.com/evansjethro/King-evans-vs-code-theme/tree/main/king-evans/img"
+  // },
   "repository": {
     "type": "git",
     "url": "https://github.com/evansjethro/King-evans-vs-code-theme"
