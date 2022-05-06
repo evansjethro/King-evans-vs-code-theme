@@ -1,0 +1,21 @@
+{
+    "name": "king-evans",
+    "displayName": "king-evans",
+    "description": "king Evans Dark",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "King-Evans",
+                "uiTheme": "vs-dark",
+                "path": "./themes/King-Evans-color-theme.json"
+            }
+        ]
+    }
+}
