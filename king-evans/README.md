@@ -6,15 +6,15 @@ This is the syntax coloring for HTML, CSS and javascript.
 
 ## HTML
 
-![HTML Styling](HTML.png)
+<img src="https://github.com/evansjethro/King-evans-vs-code-theme/blob/9667f40e149d2094e819a1db518857c8aa6a8680/king-evans/HTML.png?raw=true">
 
 ## CSS
 
-![CSS Styling](CSS.png)
+<img src="https://github.com/evansjethro/King-evans-vs-code-theme/blob/264572081f102f5258214a2a900909b8bcb640f9/king-evans/img/CSS.png?raw=true">
 
 ## JAVASCRIPT
 
-![JavaScript Styling](JAVASCRIPT.png)
+<img src="https://github.com/evansjethro/King-evans-vs-code-theme/blob/9667f40e149d2094e819a1db518857c8aa6a8680/king-evans/JAVASCRIPT.png?raw=true">
 
 ### For more information
 

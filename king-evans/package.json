@@ -4,10 +4,13 @@
   "description": "king Evans Dark",
   "publisher": "EvansJethro",
   "icon": "evans_logo.png",
-  "version": "0.4.1",
+  "version": "0.5.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/evansjethro/King-evans-vs-code-theme"
+  },
+  "vsce": {
+    "baseImagesUrl": "https://my.custom/base/images/url"
   },
   "keywords": [
     "theme",
